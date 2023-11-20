@@ -21,8 +21,8 @@ Print the output.
 ### PROGRAM:
 ```py
 #To write a python program for reading content from a CSV file.
-#eveloped by: M.Aadhithya
-#Register Number: 22003465
+#eveloped by: gokul r
+#Register Number: 22009260
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
